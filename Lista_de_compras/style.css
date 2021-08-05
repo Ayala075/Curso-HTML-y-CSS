@@ -1,0 +1,63 @@
+.body {
+    background-color: rgb(168, 197, 235);
+}
+
+.titulo {
+    color: rgba(7, 5, 143, 0.883);
+    font-size: 35px;
+    font-family: fantasy;
+}
+
+.subtitulo {
+    color: rgb(0, 4, 255);
+    font-size: 30px;
+    font-family: fantasy;
+}
+
+.imagen {
+    width: 200px;
+    height: 100px;
+    border-radius: 20%;
+}
+
+.naranja {
+    color: orange;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+.uvas {
+    color: blueviolet;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+.fresas {
+    color: rgb(226, 43, 43);
+    font-size: 20px;
+    font-family: cursive;
+}
+
+.pollo {
+    color: rgb(129, 64, 21);
+    font-size: 20px;
+    font-family: cursive;
+}
+
+.res {
+    color: rgb(136, 47, 6);
+    font-size: 20px;
+    font-family: cursive;
+}
+
+.cebollas {
+    color: rgb(148, 98, 17);
+    font-size: 20px;
+    font-family: cursive;
+}
+
+.brocoli {
+    color: rgb(36, 136, 10);
+    font-size: 20px;
+    font-family: cursive;
+}
