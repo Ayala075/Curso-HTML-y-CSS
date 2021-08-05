@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-size: 62.5%;
+}
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2rem;
+    color: white;
+    background-color: rgb(31, 42, 80);
+}
+.block {
+    background-color: #121F3D;
+    margin: auto;
+    padding: 0;
+}
+
+.logo {
+    width: 12rem;
+    height: 5rem;
+}
+.nav li {
+    display: inline-block;
+    margin: 0.5rem;
+    padding-left: 20px;
+    padding-right: 20px;
+    position: relative;
+    left: 60rem;
+    bottom: 5rem;
+}
+.buscador {
+    background-color: #050a18;
+    color: gray;
+
+}
+
+.block2 {
+    background-color: #374468;
+    width: 8rem;
+    height: 90rem;
+    text-align: center;
+    position: relative;
+}
+
+.block2 li {
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+    background-color: rgb(113, 165, 54);
+    line-height : 5rem;
+    position: relative;
+    left: 1.5rem;
+    list-style: none;
+}
